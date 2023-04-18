@@ -1,2 +1,4 @@
 lushu-book/
 .env
+docs.index
+faiss_store.pkl

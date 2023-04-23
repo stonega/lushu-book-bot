@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from qa import ask_question
+from ask import ask_question
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()

@@ -1,2 +1,2 @@
 [start]
-cmd = 'gunicorn app:app --timeout 300'
+cmd = 'uvicorn app:app'

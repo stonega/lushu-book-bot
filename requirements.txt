@@ -3,4 +3,5 @@ openai
 faiss-cpu
 python-dotenv
 fastapi
+tiktoken
 uvicorn[standard]

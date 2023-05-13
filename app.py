@@ -7,6 +7,7 @@ app = FastAPI()
 
 origins = [
     "https://lushu-book.vercel.app",
+    "https://lushu-book.stonegate.me",
     "http://localhost:3000",
 ]
 

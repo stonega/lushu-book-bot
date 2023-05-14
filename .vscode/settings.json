@@ -6,6 +6,7 @@
         "FAISS",
         "metadatas",
         "pydantic",
+        "uvicorn",
         "Vectorstore",
         "vectorstores"
     ]
